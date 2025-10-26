@@ -1,0 +1,8 @@
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\bin\Debug\gokuBattle.exe.config
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\bin\Debug\gokuBattle.exe
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\bin\Debug\gokuBattle.pdb
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\obj\Debug\gokuBattle.csprojResolveAssemblyReference.cache
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\obj\Debug\gokuBattle.MainForm.resources
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\obj\Debug\gokuBattle.csproj.GenerateResource.Cache
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\obj\Debug\gokuBattle.exe
+C:\Users\vitin\OneDrive\Documentos\SharpDevelop Projects\gokuBattle\gokuBattle\obj\Debug\gokuBattle.pdb
