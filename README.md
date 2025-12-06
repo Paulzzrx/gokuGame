@@ -5,7 +5,7 @@ The project was created with the goal of practicing Object-Oriented Programming 
 
 ---
 
-### 🎯 Project Goals
+### Project Goals
 
 This project is part of a Object-Oriented Programming course activity, with the following purposes:
 Practice using classes, objects, and methods in C#.
@@ -14,7 +14,7 @@ Develop a simple game featuring movement, animations, and player interaction.
 
 ---
 
-### 🕹️ How to Play
+### How to Play
 👤 Player 1 (Left Goku)
 | Action | Key |
 |------|--------|
@@ -38,7 +38,7 @@ Each attack changes the character’s animation and displays the projectile in t
 
 ---
 
-### 🧠 OOP Concepts Applied
+### OOP Concepts Applied
 
 The project will be expanded over time to apply the following concepts:
 Classes and Objects – Representing players, attacks, and scene elements.
@@ -48,21 +48,21 @@ Polymorphism – Allowing actions and attacks to behave differently depending on
 
 ---
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 Language: C#
 IDE: SharpDevelop
 
 ---
 
-### 🚧 Project Status
+### Project Status
 
 > Under development — OOP classes and mechanics will be implemented soon.
 > The current version already includes movement and basic attack interactions between two players.
 
 ---
 
-### 💾 How to Run
+### How to Run
 
 1. Clone the repository:
    ```bash
@@ -72,7 +72,7 @@ IDE: SharpDevelop
 
 ---
 
-### 📸 Screenshots (coming soon)
+### Screenshots (coming soon)
 
 > Gameplay screenshots and GIFs will be added soon.
 
@@ -81,4 +81,4 @@ IDE: SharpDevelop
 ## Author
 
 ### Paulo Victor Sousa Santos
-Programming student — exploring C# and OOP concepts through simple game development.
+Software Developer — exploring C# and OOP concepts through simple game development.
